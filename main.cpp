@@ -4,6 +4,7 @@
 //
 //  Created by Adrian Narducci on 19/06/2024.
 //
+//SDL Anda barbaro.
 
 #include <iostream>
 #include "SDL2/SDL.h"
